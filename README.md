@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ram Bagga</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://m.blog.hu/kr/krisztusa/postimage/matrix_1338290178.gif">
 
-<div style="padding-top:80.000%;position:relative;"><iframe src="https://gifer.com/embed/NvL" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rambagga&label=Profile%20views&color=0e75b6&style=flat" alt="rambagga" /> </p>
 
 - 🔭 I’m currently working on [Nimble](https://github.com/RamBagga/Nimble)
