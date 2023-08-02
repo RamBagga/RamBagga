@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ram Bagga</h1>
-<h3 align="center">A passionate Machine Learning developer from India</h3>
+<h3 align="center">A skilled computer science engineer with a strong foundation in DSA from India</h3>
 <img align="right" alt="Coding" width="400" src="https://m.blog.hu/kr/krisztusa/postimage/matrix_1338290178.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rambagga&label=Profile%20views&color=0e75b6&style=flat" alt="rambagga" /> </p>
